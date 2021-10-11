@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\hacke\source\repos\Currency Converter\Currency Converter\Source.cpp(16,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hacke\source\repos\Currency Converter\Currency Converter\Source.cpp(17,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hacke\source\repos\Currency Converter\Currency Converter\Source.cpp(18,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Currency Converter.vcxproj -> C:\Users\hacke\source\repos\Currency Converter\Debug\Currency Converter.exe
